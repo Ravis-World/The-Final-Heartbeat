@@ -1,0 +1,59 @@
+The Final Heartbeat
+===================
+
+_A Raviolo The Magician game built in PenguinMod_
+
+📖 About
+--------
+
+In **The Final Heartbeat**, you take control of the user as you face your most dangerous trial yet. A malicious Trojan, unleashed by Dr. &Kappa; (Kappa), has trapped you inside sleep mode. With only ₽1,000,000 in your account and the clock ticking, You must confront a **math based boss fight** to destroy the Trojan before it causes a fatal error in your system.
+
+Every decision matters. Every strike brings you closer to freedom… or closer to losing your final heartbeat.
+
+🎮 Features
+-----------
+
+*   A **PenguinMod-powered interactive game**
+*   **10 step quiz** with increased difficulty
+*   Atmospheric design inspired by coding, viruses, and survival puzzles
+*   Part of the larger **Raviolo The Magician Universe**
+    
+
+🕹️ How to Play
+---------------
+
+1.  Open the game in **PenguinMod**.
+    
+2.  Use the provided controls (explained in-game) to fight through the questions.
+    
+3.  Balance your resources carefully — one wrong move could cost you your heartbeat.
+    
+4.  Answer **10 math questions in a row** to break free from Dr. Κ’s Trojan.
+    
+
+📦 Installation
+---------------
+
+*   Play directly online via **PenguinMod** (recommended).
+    
+*   Or download the .pmp file and load it manually in the PenguinMod editor.
+
+✨ Credits
+---------
+
+*   **Game Design & Story**: Ravi's World
+    
+*   **Engine**: PenguinMod
+    
+*   **Special Thanks**:
+    *   Everyone playing the game.
+
+*   **Extra Assets**:
+    *   bsod.mp3 and fanshutdown.mp3 from Progressbar95
+    *   Main Theme by Paul Farrer (sped up to 150bpm)
+    
+
+📢 Notes
+--------
+
+This is part of the ongoing **Heartbeat Project** within the _Raviolo The Magician_ series. For the best experience, it’s recommended to [play the earlier stories first](https://sites.google.com/view/1000-heartbeats/prologue) — but _The Final Heartbeat_ can also be enjoyed as a standalone.
